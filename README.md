@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sanjai Kumar R
 
 Bachelors in Information Technology 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://i.pinimg.com/564x/4b/bc/5c/4bbc5c7f9365f56b36f3806bb40a1b9a.jpg)">
 - 🔭 Here's my [portfolio](https://www.linkedin.com/in/sanjaikumarr451/) 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
