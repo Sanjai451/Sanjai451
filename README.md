@@ -61,13 +61,6 @@ _____________|','   ///_/-------------/   |
   <img src="https://github-contributor-stats.vercel.app/api?username=sanjai451&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
-# LeetCode Stats  
-<div align="center">
-  <a href="https://leetcode.com/sanjai-kumar-r">
-    <img src="https://leetcard.jacoblin.cool/sanjaikumar451?ext=contest&theme=dark" alt="LeetCode Stats" />
-  </a>
-</div>
-
 ### IDE and Tools I Use  
 <div align="center">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />  
